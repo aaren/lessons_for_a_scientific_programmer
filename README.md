@@ -1,6 +1,8 @@
 Lessons for a scientific programmer
 ===================================
 
+lalala
+
 Author: Philip Elson (@pelson)
 
 ## Abstract
